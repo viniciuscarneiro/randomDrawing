@@ -1,4 +1,4 @@
-package sorteio;
+package br.com.sorteio;
 
 import java.util.ArrayList;
 import java.util.List;
